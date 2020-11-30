@@ -26,3 +26,4 @@
 |消耗品|文具</br>台所用品
 
 ![切手代](./img/googlelogo_color_272x92dp.png)
+# サンプルを追加
